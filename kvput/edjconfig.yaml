@@ -1,0 +1,10 @@
+function_name: kvput
+function_id: 989ec099-762f-46e3-8e7a-4af1cb4ec022
+application_id: 7e387952-ab78-45b1-b216-afb27ca239b6
+trigger: http
+timeout: 1000
+memory_allocated: 16777216
+language: c++
+runtime: wasm
+artifact_path: /Test/kvput/bin/edjfunction_example_cpp.wasm
+policies: []
