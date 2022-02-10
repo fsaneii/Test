@@ -1,0 +1,10 @@
+function_name: storageputfunc
+function_id: 0b7c730b-e0d8-4859-9032-cd3a62528e32
+application_id: 7e387952-ab78-45b1-b216-afb27ca239b6
+trigger: http
+timeout: 30000
+memory_allocated: 33554432
+language: c++
+runtime: wasm
+artifact_path: /Test/storageputfunc/bin/edjfunction_example_cpp.wasm
+policies: []
